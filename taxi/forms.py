@@ -89,9 +89,3 @@ class DriverSearchForm(forms.Form):
             }
         )
     )
-
-
-
-# drivers - by username
-# cars - by model
-# manufacturers - by name
